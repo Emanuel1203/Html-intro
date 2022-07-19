@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div> id="exercise1"
+        <h1>Emanuel Chudy</h1>
+        <p> I was born in Poland in December of 1998, came to the 
+            United States with my family at the age of 8. I graduated High School
+            In 2016. Went on to college witch I did not finish because I could not 
+            find anything that I could major in that interested me and I wanted to 
+            do for the rest of mylife. Since than I have been working in the Logistics 
+            business and also driving trucks for FedEx. I recently came upon web development 
+            thanks to one of my close friends that just finished his internship and got a job
+            as a developer he explained it to me and it sounded like something I would enjoy 
+            persuing as a career. On my free time I love to Travel stay outdoor and do physical 
+            activities like snowboarding, wakeboarding, hiking, and camping.
+        </p>
+
+    </div>
+
+    <div> id="exercise2"
+        
+        <ul>
+            <li>
+                <a href="https://www.linkedin.com/in/emanuelchudy/">LinkedIn Profile</a>   
+            </li>
+            <li>
+              <a href="https://truecoders.io/">TrueCoders Home Page</a> 
+            </li>
+            
+            <li>
+              <a href="github.com">GitHub Home Page</a>  
+            </li>
+            
+        </ul>
+    </div>
+
+    <div> id="exercise3"
+        <img src="images/avatar.jpg" alt="avatar"/>
+        
+    </div>
+
+    <div> id="exercise4"
+        <p>
+            I looked down at the board. "The <strong>point</strong> isn't to win?" I asked. "The
+            <strong>point</strong>," <span>Bredon</span> said grandly, "is to <u>play</u> a <em>beautiful</em> game." He lifted
+            his hands and shrugged, his face breaking into a beautific smile. "Why
+            would I want to win anything other than a <em>beautiful</em> game?"
+          </p>
+    </div>
+
+    <div> id="exercise5"
+        <header>
+        <nav>
+          <ul>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li>
+              <a href="/about">About</a>
+            </li>
+            <li>
+              <a href="/projects">Projects</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+
+      <main>
+        <section>
+          <h1>Main Heading</h1>
+          <p>Author.. Bio...</p>
+        </section>
+        <article>
+          <section>
+            <h2>Sub Heading</h2>
+            <div>
+              <p>Lorem ipsum...</p>
+            </div>
+        </section>
+          <section>
+            <h2>Sub Heading</h2>
+            <p>Lorem ipsum...</p>
+            <div>
+              <h3>Another Sub Heading</h3>
+              <p>Lorem ipsum...</p>
+            </div>
+        </section>
+        </article>
+      </main>
+
+      <footer>
+        <nav>
+          <ul>
+            <li>
+              <a href="/privacy">Privacy Policy</a>
+            </li>
+            <li>
+              <a href="/terms">Terms and Conditions</a>
+            </li>
+          </ul>
+        </nav>
+
+        <div>
+          <p>Powered by 🕯️</p>
+          <p>&copy; TrueCoders 2021-24</p>
+        </div>
+</footer>
+    
+</body>
+</html>
